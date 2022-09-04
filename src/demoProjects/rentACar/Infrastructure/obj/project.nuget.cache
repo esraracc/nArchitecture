@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XO/xPemizQupqNbUXUuRJDp//miyeIGoWEOp2T+SGdrfH0P6a0gEmPVwLRI2oeQvjiVEuHk39jOYulKxLFGHOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esra2\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esra2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\esra2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\esra2\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
