@@ -17,3 +17,9 @@ C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persiste
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net5.0\Core.Application.dll
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net5.0\Core.CrossCuttingConcers.dll
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net5.0\Core.Security.dll
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net5.0\Core.Application.pdb
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net5.0\Core.CrossCuttingConcers.pdb
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Persistence\bin\Debug\net5.0\Core.Security.pdb

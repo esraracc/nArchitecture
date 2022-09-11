@@ -1,3 +1,4 @@
+using Application;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -28,7 +29,7 @@ namespace WebAPI
         {
             // Add services to the container.
 
-            //services.AddApplicationServices();
+            services.AddApplicationServices();
             //services.AddSecurityServices();
             services.AddPersistenceServices(Configuration);
             //services.AddInfrastructureServices();

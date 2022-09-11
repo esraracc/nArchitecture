@@ -15,3 +15,9 @@ C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Applicat
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net5.0\Application.dll
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net5.0\Core.Application.dll
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net5.0\Core.CrossCuttingConcers.dll
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net5.0\Core.Security.dll
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net5.0\Core.Application.pdb
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net5.0\Core.CrossCuttingConcers.pdb
+C:\Users\esra2\Documents\GitHub\nArchitecture\src\demoProjects\rentACar\Application\bin\Debug\net5.0\Core.Security.pdb
