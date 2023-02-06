@@ -7364,28 +7364,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\esra2\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esra2\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\esra2\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\esra2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esra2\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\esra2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7398,8 +7395,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\esra2\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\esra2\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj"
+            "C:\\Users\\PC\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -7445,24 +7442,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x86",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -7471,7 +7450,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

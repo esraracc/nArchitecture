@@ -10,3 +10,15 @@ C:\Users\esra2\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\bin\
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.dll
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\ref\Core.Mailing.dll
 C:\Users\esra2\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.pdb
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net5.0\Core.Mailing.deps.json
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net5.0\Core.Mailing.dll
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net5.0\ref\Core.Mailing.dll
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\bin\Debug\net5.0\Core.Mailing.pdb
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.dll
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\ref\Core.Mailing.dll
+C:\Users\PC\Documents\GitHub\nArchitecture\src\corePackages\Core.Mailing\obj\Debug\net5.0\Core.Mailing.pdb
